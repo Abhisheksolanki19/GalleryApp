@@ -4,7 +4,7 @@ It has following features:
 1. Employed compose to built the UI of the APP
 2. Support for Pagination to load images only when user scroll through the List
 3. Dagger HIlt Support for Dependency Injection
-4. Implemented MVVVM architecture in this project
+4. Implemented MVVM architecture in this project
 5. Use Coil Library to efficiently load images in compose
 6. App Performance would be much better in release APK, download it from below Link
 
